@@ -58,7 +58,7 @@ export const About = () => {
                 <h3 className="text-xl font-bold mb-4">📖 Education</h3>
                 <ul className="list-disc list-inside text-gray-300 space-y-2">
                   <li>
-                    <strong>Persuing B.E. in Computer Engineering</strong> -
+                    <strong>Pursuing B.E. in Computer Engineering</strong> -
                     Nutan Maharashtra Institute of Engineering and Technology
                     (2024-2028)
                   </li>
